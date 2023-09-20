@@ -6,7 +6,6 @@ from bitsv.network.meta import Unspent
 from WoCInterface import *
 
 
-# YOU ARE ON MAINNET
 #key1 = PrivateKey("REDACTED", network='main')
 address = key1.address
 exit = False

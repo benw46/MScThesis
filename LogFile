@@ -1,0 +1,8 @@
+49.233.55.90 445 HRearden [16/Jan/2023:05:25:44 -0500] "GET /metallurgy_for_dummies.txt HTTP/1.0" 200 6323 bsv
+49.233.55.90 445 HRearden [16/Jan/2023:16:17:24 -0500] "POST /schematics.pdf HTTP/1.0" 200 8213 bsv
+130.37.10.231 320 Slug [02/Apr/2023:10:11:20 -0500] "POST /aristotle_laws.pdf HTTP/1.0" 200 8158 bsv
+130.37.10.231 320 Slug [02/Apr/2023:14:28:34 -0500] "GET /aristotle_laws.pdf HTTP/1.0" 200 8158 bsv
+99.112.201.215 623 Frisco [06/Apr/2023:07:52:01 -0500] "POST /wealth_of_nations.pdf HTTP/1.0" 200 7363 bsv
+180.125.88.31 943 SailorDann [15/Jul/2023:06:40:33 -0400] "POST /moby_dick.pdf HTTP/1.0" 200 1230 bsv
+49.233.55.90 445 HRearden [03/Nov/2023:09:34:24 -0500] "GET /tt_network_map.png HTTP/1.0" 200 9234 bsv
+10.131.174.218 123 JGalt [22/Nov/2023:19:59:59 -0500] "GET /my_speech.txt HTTP/1.0" 200 1234 bsv
